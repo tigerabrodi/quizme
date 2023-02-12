@@ -1,0 +1,12 @@
+{
+  "name": "quizme",
+  "version": "1.0.0",
+  "description": "A application for spaced repition.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "type": "module"
+}
